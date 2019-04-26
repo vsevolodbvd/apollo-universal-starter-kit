@@ -1,6 +1,4 @@
-FROM node:8
-
-MAINTAINER Victor Vlasenko <victor.vlasenko@sysgears.com>
+FROM node:8.9-alpine
 
 RUN apk add --no-cache tini git
 
