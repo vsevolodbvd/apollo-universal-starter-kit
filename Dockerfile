@@ -1,4 +1,4 @@
-FROM node:8.9-alpine
+FROM node:8
 
 MAINTAINER Victor Vlasenko <victor.vlasenko@sysgears.com>
 
